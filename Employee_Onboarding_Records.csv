@@ -1,0 +1,101 @@
+EmployeeID,Name,Gender,Age,Department,Role,DateOfJoining,OnboardingStatus,BuddyAssigned,Manager,ProbationEndDate,TrainingCompletion,LaptopAssigned,AccessCardIssued,EmailCreated
+EMP0001,Amanda Hamilton,Female,32,Finance,Finance Manager,2024-10-16,Completed,Alexander Miller,David Washington,2025-08-25,Ongoing,No,Yes,No
+EMP0002,Michelle Harris,Male,35,Marketing,Marketing Executive,2023-12-15,Completed,Heather Mcclure,Elizabeth Mendoza,2025-08-25,Not Started,No,Yes,No
+EMP0003,Frank Walker,Female,29,Customer Support,Customer Service Rep,2025-07-23,In Progress,Lee Anthony,Anthony Mckinney DVM,2025-08-25,Ongoing,Yes,No,Yes
+EMP0004,Paul Welch,Male,47,R&D,Product Designer,2024-06-09,In Progress,Rose Fleming,Margaret Gutierrez,2025-08-25,Not Started,Yes,Yes,No
+EMP0005,Lisa Sellers,Male,40,Customer Support,Call Center Agent,2023-11-22,Pending,Mckenzie Moore,Ricky Kaufman,2025-08-25,Not Started,No,Yes,Yes
+EMP0006,Angela Howe,Female,41,Sales,Business Development,2025-04-05,Completed,Jeffrey Scott,Robert Stone,2025-08-25,Not Started,Yes,Yes,No
+EMP0007,Danielle Taylor,Female,29,Marketing,Marketing Executive,2025-02-16,In Progress,Caleb Bullock,Tracy Cox,2025-08-25,Ongoing,Yes,No,No
+EMP0008,Haley Tucker,Female,36,IT,System Admin,2024-03-05,Completed,Jessica Barber,Chad Hayes,2025-08-25,Not Started,Yes,Yes,Yes
+EMP0009,Jasmine Dillon,Female,46,Customer Support,Customer Service Rep,2025-08-14,Pending,Mark Martinez,Victoria Mckinney,2025-08-25,Not Started,No,No,Yes
+EMP0010,Justin Caldwell,Female,37,Marketing,Content Strategist,2023-09-03,Completed,Debbie Cruz,Jessica Palmer,2025-08-25,Ongoing,No,Yes,Yes
+EMP0011,Christopher Valenzuela,Female,41,Customer Support,Support Specialist,2023-09-16,In Progress,Mr. Luis Jones,Allison Castaneda,2025-08-25,Ongoing,Yes,No,Yes
+EMP0012,Wendy Blanchard,Male,32,R&D,Product Designer,2024-01-29,Completed,David Nash,Carrie Young,2025-08-25,Ongoing,Yes,No,Yes
+EMP0013,Teresa Gomez,Male,22,Customer Support,Call Center Agent,2023-10-31,Pending,Jennifer Frey,Brandon Kent,2025-08-25,Ongoing,Yes,No,Yes
+EMP0014,Kenneth Rubio,Female,34,HR,HR Executive,2025-07-01,Completed,Sheryl Watts,April Gonzalez,2025-08-25,Ongoing,No,No,No
+EMP0015,Sandra Johnson,Female,41,HR,Recruiter,2023-10-24,Pending,Regina Smith,Jessica Barnes,2025-08-25,Completed,Yes,No,No
+EMP0016,Dr. Shawn Orozco,Female,23,Customer Support,Support Specialist,2023-11-09,Pending,Edward Rodriguez,Danielle Grimes,2025-08-25,Not Started,Yes,No,Yes
+EMP0017,Jennifer Macias,Female,45,R&D,Data Scientist,2024-05-06,In Progress,Donna Rivera,Samuel Daniels,2025-08-25,Completed,No,No,No
+EMP0018,Tracey Garcia,Female,49,HR,HR Executive,2025-05-22,Completed,Morgan Carroll,Kathy Lopez,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0019,Stacy Hart,Female,30,Customer Support,Call Center Agent,2025-06-03,Completed,Crystal Carter,Patricia Parker,2025-08-25,Completed,Yes,Yes,Yes
+EMP0020,Brittany Garcia,Male,35,R&D,Data Scientist,2024-04-13,Pending,Cassandra Fischer,Jennifer Andrade,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0021,Angela Hayden,Male,24,R&D,Data Scientist,2024-05-21,In Progress,Travis Garcia,Robert Medina,2025-08-25,Ongoing,No,Yes,No
+EMP0022,Justin Smith,Male,33,Marketing,Content Strategist,2024-08-18,Pending,Kimberly Mills,Haley Williams,2025-08-25,Not Started,Yes,No,No
+EMP0023,Dennis Shaffer,Female,32,HR,Recruiter,2024-01-12,Completed,Anthony Perkins,Michael Owens,2025-08-25,Ongoing,No,No,No
+EMP0024,Greg Johnson,Female,48,R&D,Research Analyst,2024-03-06,In Progress,David Colon,Mr. Benjamin Medina MD,2025-08-25,Completed,Yes,Yes,Yes
+EMP0025,Bradley Montes,Female,26,Finance,Accountant,2024-08-01,Pending,Joshua Cruz,Toni Walsh,2025-08-25,Ongoing,Yes,No,Yes
+EMP0026,Dale Vaughn,Female,44,R&D,Data Scientist,2024-01-11,In Progress,James Castillo,Casey Flores,2025-08-25,Not Started,Yes,No,Yes
+EMP0027,John Snyder,Male,27,Finance,Finance Manager,2024-07-09,Completed,Charles Reid,Angela Drake,2025-08-25,Ongoing,No,No,No
+EMP0028,Michael Moreno,Female,28,Finance,Financial Analyst,2023-10-25,Completed,Eric Deleon,John Chapman,2025-08-25,Completed,Yes,No,Yes
+EMP0029,Shannon Bell,Male,23,R&D,Product Designer,2024-02-16,Pending,Eileen Garcia,Joseph Poole,2025-08-25,Ongoing,No,Yes,Yes
+EMP0030,Jennifer Leblanc,Male,29,Marketing,Content Strategist,2023-09-24,In Progress,Frank Warner,Courtney Edwards,2025-08-25,Completed,Yes,No,No
+EMP0031,Heather Oconnor,Female,37,Marketing,SEO Specialist,2025-03-13,In Progress,Elizabeth Bell,David Thompson,2025-08-25,Not Started,Yes,No,No
+EMP0032,Christian Kennedy,Male,35,Operations,Logistics Coordinator,2024-01-11,Pending,Dr. Edward Davies,Leroy Green,2025-08-25,Not Started,Yes,No,No
+EMP0033,Joseph Peters,Female,38,R&D,Product Designer,2023-11-07,Completed,Nathan Aguilar,Michael Cobb,2025-08-25,Ongoing,No,Yes,Yes
+EMP0034,Christopher Good,Female,50,Finance,Accountant,2025-07-08,Completed,Jennifer Kline MD,Monica Michael,2025-08-25,Ongoing,Yes,No,No
+EMP0035,Christian Gonzalez,Male,42,HR,HR Manager,2023-09-10,Pending,Karen Wolf,Louis White,2025-08-25,Completed,Yes,No,Yes
+EMP0036,Christopher Norman,Male,27,Marketing,Content Strategist,2025-07-20,Pending,Heidi Harris,Nancy Pineda,2025-08-25,Not Started,No,Yes,No
+EMP0037,Philip Andersen,Male,38,Marketing,SEO Specialist,2024-04-11,Pending,Kevin Burch,Ashley Gonzales,2025-08-25,Ongoing,Yes,No,No
+EMP0038,Brian Schultz,Female,23,R&D,Product Designer,2024-02-02,In Progress,Crystal Harmon,Martha Adkins,2025-08-25,Not Started,No,No,Yes
+EMP0039,Stephanie Williams,Female,50,HR,Recruiter,2023-09-24,Pending,Stephanie House,Kristina Davis,2025-08-25,Not Started,No,Yes,No
+EMP0040,William Miller,Female,25,Sales,Business Development,2024-07-25,Pending,Michael Montoya,Andrea Russell DVM,2025-08-25,Not Started,Yes,Yes,No
+EMP0041,Wanda Raymond,Male,24,Operations,Logistics Coordinator,2024-05-30,Completed,Maria Arnold,Megan Mueller,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0042,Pamela Thompson,Female,41,IT,System Admin,2025-03-19,Completed,Marcus Compton,Thomas Roach,2025-08-25,Not Started,Yes,No,No
+EMP0043,Jonathan Bradford,Female,41,Marketing,Content Strategist,2025-04-01,Pending,Debra Morgan,Mr. James Vaughn,2025-08-25,Ongoing,Yes,No,No
+EMP0044,Randy Williams,Female,28,Marketing,Content Strategist,2024-12-27,In Progress,Teresa Walker,Felicia Marsh,2025-08-25,Ongoing,No,Yes,No
+EMP0045,Denise Clark,Female,26,Operations,Logistics Coordinator,2024-09-28,Completed,Kim Esparza,Madison Gomez,2025-08-25,Completed,No,Yes,Yes
+EMP0046,Shawn Thompson,Male,32,HR,HR Manager,2025-02-21,Pending,Vanessa Sharp,Hayley Gibbs,2025-08-25,Completed,Yes,Yes,Yes
+EMP0047,Tyler Williamson,Male,43,Marketing,SEO Specialist,2023-11-05,In Progress,Matthew Baker,David Rodriguez,2025-08-25,Not Started,No,No,No
+EMP0048,Brittany Gilmore,Male,32,Finance,Accountant,2024-06-22,Pending,Joe Case,Todd Parsons,2025-08-25,Ongoing,Yes,No,No
+EMP0049,Paula Crawford,Male,46,Operations,Operations Manager,2025-07-18,Pending,Melissa Brady PhD,Sabrina Simmons,2025-08-25,Not Started,Yes,No,Yes
+EMP0050,David Nichols,Male,29,Customer Support,Customer Service Rep,2024-04-20,In Progress,Jacqueline Raymond,Ashlee Carr,2025-08-25,Completed,Yes,Yes,Yes
+EMP0051,Amy Mclaughlin,Female,37,HR,Recruiter,2025-07-30,Completed,Ashley Sanchez,Mr. Matthew Park,2025-08-25,Completed,Yes,No,Yes
+EMP0052,Austin Williams,Female,49,Finance,Financial Analyst,2025-03-03,In Progress,Yvonne Ferguson,Cathy White,2025-08-25,Completed,Yes,Yes,Yes
+EMP0053,Amanda Rich,Male,31,Sales,Sales Manager,2025-08-08,Pending,Daniel Ramos,Lindsay Brooks,2025-08-25,Not Started,Yes,Yes,Yes
+EMP0054,Nicholas Lee,Male,42,Operations,Logistics Coordinator,2024-07-02,In Progress,Joshua Erickson,Kristy Jackson,2025-08-25,Not Started,No,Yes,Yes
+EMP0055,Kenneth Shaw,Male,36,Customer Support,Support Specialist,2024-03-13,Completed,Elizabeth Butler,Jennifer Lyons,2025-08-25,Ongoing,Yes,No,Yes
+EMP0056,Adam Griffin,Male,37,Finance,Accountant,2025-04-03,In Progress,Terri Rios,Ethan Mitchell,2025-08-25,Ongoing,No,Yes,Yes
+EMP0057,Melanie Ball,Female,28,Customer Support,Customer Service Rep,2025-04-27,Completed,Dominique Cook,Margaret Scott,2025-08-25,Ongoing,No,Yes,No
+EMP0058,Austin Black,Male,32,Sales,Sales Executive,2025-03-19,Pending,Steven Hardin,Daniel Hayes,2025-08-25,Ongoing,Yes,Yes,No
+EMP0059,Mason Ho,Female,26,HR,HR Manager,2023-10-19,Pending,Anthony Smith,Lisa Hensley,2025-08-25,Completed,No,Yes,No
+EMP0060,Colleen Phillips,Female,42,R&D,Research Analyst,2023-10-16,Completed,Alice Wright,Dr. Angel Morrison II,2025-08-25,Not Started,No,No,No
+EMP0061,Gary Anderson,Female,35,Customer Support,Customer Service Rep,2024-04-10,Completed,Sara Rice,Gregory Harris,2025-08-25,Not Started,No,Yes,No
+EMP0062,Jessica Williams,Male,22,Customer Support,Call Center Agent,2024-10-11,Pending,Rhonda Cooper,Diane Martinez,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0063,Ethan Freeman,Female,24,Customer Support,Customer Service Rep,2024-11-21,In Progress,Kari Johnston,Laura Williams,2025-08-25,Not Started,Yes,Yes,No
+EMP0064,Ralph Blackwell,Male,22,IT,System Admin,2024-05-23,Pending,Michael Adkins,Eric Goodwin,2025-08-25,Completed,Yes,No,No
+EMP0065,Jennifer Gregory,Male,43,IT,Software Engineer,2024-03-13,In Progress,Laura Johnson,Brandon Molina,2025-08-25,Completed,Yes,Yes,No
+EMP0066,Kenneth Phelps,Female,40,Marketing,Content Strategist,2025-04-20,Completed,Troy Walker,Jesus Morris,2025-08-25,Completed,No,Yes,Yes
+EMP0067,Andrew Long,Male,41,Operations,Admin Officer,2023-12-28,Pending,Krystal Fuller,Brittany Ford,2025-08-25,Ongoing,No,Yes,Yes
+EMP0068,Lisa Scott,Female,24,Sales,Sales Executive,2024-08-14,In Progress,Michael Hampton,Jessica Newman,2025-08-25,Completed,Yes,No,No
+EMP0069,Charles Walker,Female,35,IT,IT Support,2023-10-04,Completed,Michael Fox,Dana Roberts,2025-08-25,Completed,No,Yes,Yes
+EMP0070,Anthony Edwards,Female,43,Finance,Finance Manager,2024-11-22,Completed,Sherry Moore,Nathan Scott,2025-08-25,Not Started,No,No,Yes
+EMP0071,Jennifer Drake,Female,36,Sales,Business Development,2023-09-25,Completed,Kelly Long,Robin Torres,2025-08-25,Completed,Yes,Yes,Yes
+EMP0072,Michael Anderson,Female,45,IT,Software Engineer,2024-12-24,In Progress,Deborah Black,John Silva,2025-08-25,Completed,Yes,No,Yes
+EMP0073,Julie Middleton,Male,23,Sales,Sales Manager,2024-02-27,Pending,Trevor Mills,Robin Brown,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0074,Jacqueline Thomas,Female,41,Marketing,SEO Specialist,2025-05-11,Completed,Kevin Ross,Nathaniel Calhoun,2025-08-25,Completed,No,Yes,Yes
+EMP0075,Christopher Baker,Female,22,IT,Software Engineer,2024-07-26,Completed,Anthony Ruiz,David Wood,2025-08-25,Completed,Yes,No,No
+EMP0076,Erica Lam,Female,40,R&D,Research Analyst,2024-06-25,Pending,Paul Cooper,Eric Lloyd,2025-08-25,Ongoing,No,No,No
+EMP0077,Mario Thompson,Female,27,R&D,Research Analyst,2025-08-16,Completed,Dana Torres,Nicole Bowman,2025-08-25,Not Started,No,No,No
+EMP0078,David Alvarez,Male,27,Sales,Business Development,2024-05-20,Completed,Michael Payne,Dennis Johnson,2025-08-25,Completed,Yes,Yes,No
+EMP0079,April Blackwell,Male,35,Operations,Operations Manager,2024-07-26,In Progress,Joseph Maynard,Eric Henry,2025-08-25,Completed,Yes,Yes,Yes
+EMP0080,Sheila Martin,Female,42,Operations,Admin Officer,2025-04-14,Pending,William Liu,Debra Reese,2025-08-25,Completed,Yes,Yes,No
+EMP0081,Teresa Dickerson,Male,25,Operations,Logistics Coordinator,2025-08-24,Pending,Cynthia Watson,Christine Hayes,2025-08-25,Ongoing,No,Yes,No
+EMP0082,Nathan Gonzalez,Male,32,Operations,Logistics Coordinator,2025-06-11,Completed,Amy Berg,John Murphy,2025-08-25,Ongoing,No,Yes,Yes
+EMP0083,Taylor Stark,Female,36,Operations,Logistics Coordinator,2025-08-10,Pending,Mary Lawson,Danielle Duke,2025-08-25,Not Started,Yes,No,No
+EMP0084,Anna Jones,Female,39,Operations,Admin Officer,2024-03-25,In Progress,Eric Lewis,Wyatt Welch,2025-08-25,Completed,No,No,No
+EMP0085,Joshua Crawford,Female,38,Customer Support,Customer Service Rep,2024-09-11,In Progress,Erica Nguyen,Kelly Allen,2025-08-25,Ongoing,No,No,Yes
+EMP0086,Patrick Thompson,Female,49,Finance,Financial Analyst,2025-02-07,Pending,Shane Valencia,Alexis Jones,2025-08-25,Ongoing,No,Yes,Yes
+EMP0087,Pamela Whitehead,Female,38,Sales,Sales Executive,2025-03-24,Pending,James Jones,Alexis Garcia,2025-08-25,Not Started,No,Yes,No
+EMP0088,Tracy Williams,Female,23,Customer Support,Customer Service Rep,2024-02-04,Completed,Jacqueline Martin,Brandi Bowman,2025-08-25,Ongoing,No,No,Yes
+EMP0089,Diana Henderson,Male,34,Customer Support,Customer Service Rep,2025-04-03,In Progress,Veronica Hudson,Benjamin Cooper,2025-08-25,Ongoing,Yes,Yes,No
+EMP0090,Jade Rice DDS,Male,47,R&D,Product Designer,2025-07-28,Pending,Donald Bradley,Nicole Sullivan,2025-08-25,Completed,Yes,Yes,Yes
+EMP0091,Angel Hall,Female,34,HR,Recruiter,2024-07-28,Pending,Jennifer Hansen,Deborah James,2025-08-25,Not Started,No,Yes,No
+EMP0092,Daniel Barrett,Female,22,Marketing,SEO Specialist,2024-03-23,In Progress,Troy Baker,Bob Hernandez,2025-08-25,Ongoing,Yes,Yes,No
+EMP0093,Rebecca Aguirre,Male,39,Marketing,Content Strategist,2023-12-23,Completed,Christina Cohen,Danielle Summers,2025-08-25,Ongoing,Yes,No,No
+EMP0094,Zachary Cooper,Male,22,Customer Support,Support Specialist,2023-10-28,Pending,Megan Carter,Edward Barnett,2025-08-25,Ongoing,Yes,Yes,Yes
+EMP0095,Benjamin Wilson,Female,37,Operations,Logistics Coordinator,2023-10-16,In Progress,Joseph Hayes,Daniel Hernandez,2025-08-25,Ongoing,No,No,No
+EMP0096,Christopher Black,Female,36,HR,HR Executive,2024-08-02,In Progress,Sierra James,Ashley Graham,2025-08-25,Completed,Yes,Yes,Yes
+EMP0097,Julia Oconnor,Male,44,Finance,Finance Manager,2024-04-21,Completed,Shannon Love,Patricia Simpson,2025-08-25,Completed,Yes,Yes,No
+EMP0098,Victor King,Male,38,Operations,Operations Manager,2024-11-28,Completed,Amy Adams,Richard Green,2025-08-25,Ongoing,No,Yes,Yes
+EMP0099,Shannon Jones,Male,33,HR,HR Manager,2024-12-25,Completed,Alexandra Rangel,Elizabeth Hudson,2025-08-25,Completed,Yes,Yes,Yes
+EMP0100,Dakota Davis,Female,22,Finance,Financial Analyst,2024-12-29,In Progress,Meghan Ross,Dustin Sharp,2025-08-25,Ongoing,Yes,Yes,Yes

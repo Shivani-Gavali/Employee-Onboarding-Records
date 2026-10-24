@@ -51,4 +51,7 @@ This project analyzes employee onboarding data to track onboarding status, asset
 
 ## Dashboard Preview:
 
-!Employee Onboarding Dashboard.png
+Employee-Onboarding/
+├── README.md
+└── screenshots/
+    └── Employee Onboarding Dashboard.png

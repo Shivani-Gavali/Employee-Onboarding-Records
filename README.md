@@ -1,11 +1,11 @@
 # Employee-Onboarding-Records
 
-## Power BI Project
+### Power BI Project
 This project analyzes employee onboarding data to track onboarding status, asset allocation, and department-wise completion rates. An interactive dashboard was created to help stakeholders monitor onboarding progress, track asset distribution, and identify pending onboarding activities for better workforce management.
 
-## Tools Covered : Advanced Excel, Power BI, Power Query
+### Tools Covered : Advanced Excel, Power BI, Power Query
 
-## Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 • Total employee
 
 • Total Male 
@@ -30,7 +30,8 @@ This project analyzes employee onboarding data to track onboarding status, asset
 
 • Department-wise onboarding completion rate.
 
-## Dashboard Visualizations:
+### Dashboard Visualizations:
+
 • Cards
 
 • Treemap
@@ -45,10 +46,10 @@ This project analyzes employee onboarding data to track onboarding status, asset
 
 • Stacked Bar Chart
 
-## Interactive Features:
+### Interactive Features:
 
 • Slicers
 
-## Dashboard Preview:
+### Dashboard Preview:
 
 ![Employee Onboarding Dashboard](Employee%20Onboarding%20Dashboard.png)
